@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    padding:0;
+}
+#volunteer-heading{
+    color: #09638F;
+    font-family: 'PT Sans', sans-serif;
+}
+.volunteer-conatiner{
+    margin-bottom:50px !important;
+}
+.volunteer-img{
+    padding:10px 50px;
+}
+.volunteer-img img{
+    border-radius:50%;
+    width: 100%;
+    border:3px solid rgb(190, 190, 190);
+}
+.volunteer-content{
+    background-image: linear-gradient(-90deg,rgb(4, 71, 187) ,rgb(0, 140, 255));
+    transform: skew(30deg);
+    padding:5px 0;
+    margin:0 20px;
+}
+.volunteer-content p{
+    color:white;
+    font-family: 'PT-Sans',sans-serif;
+    font-size:20px;
+    transform: skew(-30deg);
+}
